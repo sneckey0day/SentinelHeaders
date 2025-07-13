@@ -5,7 +5,7 @@
 ![SentinelHeaders Logo](https://raw.githubusercontent.com/sneckey0day/SentinelHeaders/main/images/HEADER.png)
 ---
 **Professional HTTP header security assessment for red teams, defenders, and auditors**
-[![Live Scan](https://img.shields.io/badge/🌐_Live_Scan-local-00d4aa?style=for-the-badge)](#)
+[![Live Scan](https://img.shields.io/badge/🌐_Live_Scan-local-00d4aa?style=for-the-badge)](https://lively-tulumba-7c4175.netlify.app/)
 [![GitHub Stars](https://img.shields.io/github/stars/sneckey0day/SentinelHeaders?style=for-the-badge&color=yellow)](https://github.com/sneckey0day/SentinelHeaders/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/sneckey0day/SentinelHeaders?style=for-the-badge&color=red)](https://github.com/sneckey0day/SentinelHeaders/issues)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
