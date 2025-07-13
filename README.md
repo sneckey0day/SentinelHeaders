@@ -3,7 +3,7 @@
 <div align="center">
 
 ![SentinelHeaders Logo](https://raw.githubusercontent.com/sneckey0day/SentinelHeaders/main/images/HEADER.png)
-![Netlify Status](https://api.netlify.com/api/v1/badges/ececaa95-77ac-40a9-a16e-d76c8a1de913/deploy-status)](https://app.netlify.com/projects/lively-tulumba-7c4175/deploys)
+![Netlify Status](https://api.netlify.com/api/v1/badges/ececaa95-77ac-40a9-a16e-d76c8a1de913/deploy-status)(https://app.netlify.com/projects/lively-tulumba-7c4175/deploys)
 ---
 **Professional HTTP header security assessment for red teams, defenders, and auditors**
 [![Live Scan](https://img.shields.io/badge/🌐_Live_Scan-local-00d4aa?style=for-the-badge)](#)
